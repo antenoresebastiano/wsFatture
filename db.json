@@ -1,0 +1,64 @@
+{
+    "fatture": [
+      {
+        "id": "d747e7cd-2004-4563-8a58-3982a36fb597",
+        "numero": 1,
+        "data": "10/12/2025",
+        "imponibile": 106.57,
+        "importo": 212.57,
+        "paziente": "CARLO BILLY CARRILLO GUERRERO",
+        "iva": 106,
+        "ivaPerc": 22
+      },
+      {
+        "id": "bb74a17e-2633-4903-900c-55d96cbe87c4",
+        "numero": 2,
+        "data": "11/12/2025",
+        "imponibile": 50,
+        "importo": 50,
+        "paziente": "SEBASTIANO GUGLIANDOLO",
+        "iva": 0,
+        "ivaPerc": 0
+      },
+      {
+        "id": "bb74a17e-2633-4903-900c-55d96cbe87c4",
+        "numero": 3,
+        "data": "11/12/2025",
+        "imponibile": 50,
+        "importo": 50,
+        "paziente": "SEBASTIANO GUGLIANDOLO",
+        "iva": 0,
+        "ivaPerc": 0
+      },
+      {
+        "id": "38b56b95-7fbc-447d-bd75-13f3964ba0fa",
+        "numero": 4,
+        "data": "11/12/2025",
+        "imponibile": 50,
+        "importo": 50,
+        "paziente": "GUGLIELMINA DORICO",
+        "iva": 0,
+        "ivaPerc": 0
+      },
+      {
+        "id": "6324e8b2-9dda-4347-b488-dd4dce88a747",
+        "numero": 5,
+        "data": "11/12/2025",
+        "imponibile": 50,
+        "importo": 61,
+        "paziente": "SALVATORE GUGLIOTTA",
+        "iva": 11,
+        "ivaPerc": 22
+      },
+      {
+        "id": "4fdbba8d-cbaa-4e62-98e2-13d1091f6662",
+        "numero": 6,
+        "data": "11/12/2025",
+        "imponibile": 50,
+        "importo": 61,
+        "paziente": "SHARON ASTOLFI",
+        "iva": 11,
+        "ivaPerc": 22
+      }
+    ]
+  }
