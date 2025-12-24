@@ -1,0 +1,23 @@
+[
+    {
+      "id": "d747e7cd-2004-4563-8a58-3982a36fb597",
+      "numero": "1",
+      "data": "10/12/2025",
+      "imponibile": 106.57,
+      "importo": 212.57,
+      "paziente": "CARLO BILLY CARRILLO GUERRERO",
+      "iva": 106,
+      "ivaPerc": 22
+    },
+    {
+      "id": "dbc7d5e3-2bb3-4a2a-b39d-949d8b4d78ac",
+      "numero": "2",
+      "data": "10/12/2025",
+      "imponibile": 106.57,
+      "importo": 212.57,
+      "paziente": "CARLO BILLY CARRILLO GUERRERO",
+      "iva": 106,
+      "ivaPerc": 22
+    }
+  ]
+ 
