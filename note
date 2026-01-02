@@ -4,3 +4,11 @@ su render.com
 
 antenoresebastiano@gmail.com 
 
+
+dopo aver lanciato node server.js in locale
+per ottenere il file ctiptatto da browser http://localhost:3000/download/pazientiCript
+
+
+usa notepad++ per la formattazione corretta json
+dopo incolla su  clienti.json
+il file prodotto viene deployato su come clienti.json

@@ -1,5 +1,30 @@
 {
-    "fatture": [
-    
-    ]
-  }
+	"fatture": [
+		{
+			"id": "dbbe3a96-445a-4a43-ae24-5bb7edf1927e",
+			"numero": 1,
+			"data": "2025-12-25",
+			"imponibile": 81.97,
+			"importo": 100,
+			"paziente": "FEDERICA ABBATI1",
+			"iva": 17.82,
+			"ivaPerc": 22,
+			"codiceFiscalePaziente": "BBTFRC88A70F205L",
+			"descrizioneCertificato": "Certificato Invalidità",
+			"indirizzoPaziente": "V. MAR NERO 2 MILANO"
+		},
+		{
+			"id": "feac4956-ef07-4aaf-a49d-4b54bb8513cb",
+			"numero": 2,
+			"data": "2025-12-25",
+			"imponibile": 81.97,
+			"importo": 100,
+			"paziente": "SEBASTIANO GUGLIANDOLO1",
+			"iva": 17.82,
+			"ivaPerc": 22,
+			"codiceFiscalePaziente": "GGLSST59H18F158G",
+			"descrizioneCertificato": "Certificato Invalidità",
+			"indirizzoPaziente": "V. CRISTINA1 13 PERO"
+		}
+	]
+}
